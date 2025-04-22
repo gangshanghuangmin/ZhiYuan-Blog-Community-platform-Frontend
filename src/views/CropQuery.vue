@@ -12,7 +12,7 @@
   };
   </script>
 <script setup>
-import ChoosingCrop from '../components/ChoosingCrop.vue'; // 引入组件
+import ChoosingCrop from '../components/ChoosingCropcomponents/ChoosingCrop.vue'; // 引入组件
 </script>
   
   <style scoped>
